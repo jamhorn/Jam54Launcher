@@ -62,6 +62,7 @@ dd8ed4cf505381eaa85182889920e9dcabb2aa9e990eff9850f6fa2620a26ce6|runtime\bin\pri
 4390c389bbbf9ec7215d12d22723efd77beb4cd83311c75ffe215725ecfd55dc|runtime\bin\api-ms-win-crt-runtime-l1-1-0.dll
 af0057e8553906083f69c2fb9fe9ed4ae8bc2340a0b1e376a424702f00300b29|runtime\legal\java.base\icu.md
 5eb724c51eecba9ac7b8a53861a1d029bf2e6c62251d00f61ac7e2a5f813aaa3|runtime\bin\api-ms-win-core-util-l1-1-0.dll
+bb8f76ee7e93a7db8a2ffa6c570ace9f18dd6690bf2dec1ad876551cf4f760c2|Hashes.txt
 eb61360a91c44a02f48aea77eda6a850c2640319638d8e39ac7012431c54d257|runtime\lib\javafx.properties
 45e48320abe6e3c6079f3f6b84636920a367989a88f9ba6847f88c210d972cf1|runtime\bin\api-ms-win-core-debug-l1-1-0.dll
 5882e2187c0fe291dcfb836386b014f9f565cc69cbce160af74f37a97a27abae|runtime\bin\server\jvm.dll
@@ -126,6 +127,7 @@ ebf9777bd307ed789ceabf282a9aca168c391c7f48e15a60939352efb3ea33f9|runtime\legal\j
 b5afebe2a3e7d924b393a683933b078aefd90ee93472ae736e9d74db1a6fa34d|runtime\lib\jrt-fs.jar
 191f53988c7f02dd888c4fbf7c1d3351570f3b641146fae6d60acdae544771ae|runtime\bin\api-ms-win-crt-process-l1-1-0.dll
 175a4352cf57a40470257b74d066bccf9cf81595c7ec16dd073e6f574c1dfe92|runtime\bin\glass.dll
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855|Split.txt
 8166321f14d5804ce76f172f290a6f39ce81373257887d9897a6cf3925d47989|runtime\bin\api-ms-win-crt-heap-l1-1-0.dll
 dadbd2204b015e81f94c537ac7a36cd39f82d7c366c193062210c7288baa19e3|runtime\bin\api-ms-win-core-memory-l1-1-0.dll
 ea67226be5cfe19c7e79725c2c24a16676323264d69f9747c528de0b44541b03|runtime\legal\java.xml\xalan.md
