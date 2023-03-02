@@ -1,3 +1,0 @@
-0/Stelexo_Data/level1.resS filter=lfs diff=lfs merge=lfs -text
-0/Stelexo_Data/resources.assets.resS filter=lfs diff=lfs merge=lfs -text
-0/Stelexo_Data/sharedassets0.resource filter=lfs diff=lfs merge=lfs -text
