@@ -3,6 +3,7 @@ b8409829dc4fde70f38754de55d3090a1cd52c78ffece2a08572a58de3af294d|_decimal.pyd
 47abfb801bcbd349331532ba9d3e4c08489f27661de1cb08ccaf5aca0fc80726|api-ms-win-core-interlocked-l1-1-0.dll
 90017928a8a1559745c6790bc40bb6ebc19c5f8cdd130bac9332c769bc280c64|api-ms-win-crt-time-l1-1-0.dll
 0bf0f70bd2b599ed0d6c137ce48cf4c419d15ee171f5faeac164e3b853818453|api-ms-win-core-file-l2-1-0.dll
+81c73af8601c0027d9ff9376b909331ecd09468db252a9254b9f93d7657eba49|Hashes.txt
 5911c9d1d28202721e6ca6dd394ffc5e03d49dfa161ea290c3cb2778d6449f0f|api-ms-win-crt-heap-l1-1-0.dll
 d87b2994c283004cd45107cf9b10e6b10838c190654cf2f75e7d4894cbdae853|api-ms-win-core-sysinfo-l1-1-0.dll
 c85f376407bae092cdbba92cc86c715c7535b1366406cfe50916ff3168454db0|api-ms-win-core-synch-l1-2-0.dll
